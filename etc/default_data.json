@@ -361,7 +361,7 @@
     },
     {
       "user_name":"Hongli Chen",
-      "ldap_id":"honglicX",
+      "ldap_id":"honglicx",
       "companies":[
         {
           "company_name":"Intel",
@@ -397,19 +397,6 @@
       ],
       "emails":[
         "johnson.li@intel.com"
-      ]
-    },
-    {
-      "user_name":"Tony Klink",
-      "ldap_id":"tonyklink",
-      "companies":[
-        {
-          "company_name":"Intel",
-          "end_date":null
-        }
-      ],
-      "emails":[
-        "tony.klink@intel.com"
       ]
     },
     {
@@ -582,6 +569,19 @@
       "emails": [
         "tnadeau@lucidvision.com",
         "tnadeau@brocade.com"
+      ]
+    },
+    {
+      "user_name":"Tony Klink",
+      "ldap_id":"tonyklink",
+      "companies":[
+        {
+          "company_name":"Intel",
+          "end_date":null
+        }
+      ],
+      "emails":[
+        "tony.klink@intel.com"
       ]
     },
     {
