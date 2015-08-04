@@ -124,6 +124,19 @@
       ]
     },
     {
+      "user_name":"Bindya Narayan",
+      "ldap_id":"binsn",
+      "companies":[
+        {
+          "company_name":"Intel",
+          "end_date":null
+        }
+      ],
+      "emails":[
+        "bindya.narayan@intel.com"
+      ]
+    },
+    {
       "user_name": "Brent Salisbury",
       "ldap_id": "brentsalisbury",
       "companies": [
@@ -186,6 +199,19 @@
       ]
     },
     {
+      "user_name":"Danny Zhou",
+      "ldap_id":"danny",
+      "companies":[
+        {
+          "company_name":"Intel",
+          "end_date":null
+        }
+      ],
+      "emails":[
+        "danny.zhou@intel.com"
+      ]
+    },
+    {
       "user_name": "Dave Tucker",
       "ldap_id": "dave-tucker",
       "companies": [
@@ -233,6 +259,19 @@
       ]
     },
     {
+      "user_name":"Deepti Ramakrishna",
+      "ldap_id":"dramakri",
+      "companies":[
+        {
+          "company_name":"Intel",
+          "end_date":null
+        }
+      ],
+      "emails":[
+        "deepti.ramakrishna@intel.com"
+      ]
+    },
+    {
       "ldap_id": "ecelgp",
       "user_name": "Luis Gomez",
       "companies": [
@@ -263,6 +302,19 @@
       "emails": [
         "evanrzeller@gmail.com",
         "ezeller@brocade.com"
+      ]
+    },
+    {
+      "user_name":"Eric Multanen",
+      "ldap_id":"ewm",
+      "companies":[
+        {
+          "company_name":"Intel",
+          "end_date":null
+        }
+      ],
+      "emails":[
+        "eric.w.multanen@intel.com"
       ]
     },
     {
@@ -308,6 +360,19 @@
       ]
     },
     {
+      "user_name":"Hongli Chen",
+      "ldap_id":"honglicx",
+      "companies":[
+        {
+          "company_name":"Intel",
+          "end_date":null
+        }
+      ],
+      "emails":[
+        "honglix.chen@intel.com"
+      ]
+    },
+    {
       "ldap_id": "hugo",
       "user_name": "Hugo Trippaers",
       "companies": [
@@ -322,6 +387,32 @@
       ]
     },
     {
+      "user_name":"Johnson Li",
+      "ldap_id":"johnsonli",
+      "companies":[
+        {
+          "company_name":"Intel",
+          "end_date":null
+        }
+      ],
+      "emails":[
+        "johnson.li@intel.com"
+      ]
+    },
+    {
+      "user_name":"Malini Bhandaru",
+      "ldap_id":"mbhandaru",
+      "companies":[
+        {
+          "company_name":"Intel",
+          "end_date":null
+        }
+      ],
+      "emails":[
+        "malini.k.bhandaru@intel.com"
+      ]
+    },
+    {
       "ldap_id": "mbobak",
       "user_name": "Martin Bobak",
       "companies": [
@@ -333,6 +424,34 @@
       "emails": [
         "mbobak@cisco.com",
         "martin.bobak@pantheon.sk"
+      ]
+    },
+    {
+      "user_name":"Marcus Williams",
+      "ldap_id":"mgkwill",
+      "companies":[
+        {
+          "company_name":"Intel",
+          "end_date":null
+        }
+      ],
+      "emails":[
+        "marcus.g.koontz@intel.com",
+        "marcus.koontz@gmail.com",
+	"marcus.g.williams@gmail.com"
+      ]
+    },
+    {
+      "user_name":"Praveen Mala",
+      "ldap_id":"praveen",
+      "companies":[
+        {
+          "company_name":"Intel",
+          "end_date":null
+        }
+      ],
+      "emails":[
+        "praveen.mala@intel.com"
       ]
     },
         {
@@ -396,6 +515,45 @@
       ]
     },
     {
+      "ldap_id": "ruijing",
+      "user_name": "Ruijing Guo",
+      "companies": [
+        {
+          "company_name": "Intel",
+          "end_date": null
+        }
+      ],
+      "emails": [
+        "ruijing.guo@intel.com"
+      ]
+    },
+    {
+      "user_name":"Shuqiang Zhao",
+      "ldap_id":"shuqianx",
+      "companies":[
+        {
+          "company_name":"Intel",
+          "end_date":null
+        }
+      ],
+      "emails":[
+        "shuqiangx.zhao@intel.com"
+      ]
+    },
+    {
+      "user_name":"Sharad Mishra",
+      "ldap_id":"snmishra",
+      "companies":[
+        {
+          "company_name":"Intel",
+          "end_date":null
+        }
+      ],
+      "emails":[
+        "sharad.d.mishra@intel.com"
+      ]
+    },
+    {
       "user_name": "Thomas D. Nadeau",
       "ldap_id": "tnadeau",
       "companies": [
@@ -411,6 +569,19 @@
       "emails": [
         "tnadeau@lucidvision.com",
         "tnadeau@brocade.com"
+      ]
+    },
+    {
+      "user_name":"Tony Klink",
+      "ldap_id":"tonyklink",
+      "companies":[
+        {
+          "company_name":"Intel",
+          "end_date":null
+        }
+      ],
+      "emails":[
+        "tony.klink@intel.com"
       ]
     },
     {
@@ -430,6 +601,34 @@
         "mavenugo@gmail.com",
         "vmadhu@cisco.com",
         "vmadhu@redhat.com"
+      ]
+    },
+    {
+      "user_name":"Isaku Yamahata",
+      "ldap_id":"yamahata",
+      "companies":[
+        {
+          "company_name":"Intel",
+          "end_date":null
+        }
+      ],
+      "emails":[
+        "isaku.yamahata@intel.com",
+        "isaku.yamahata@gmail.com",
+        "yamahata@private.email.ne.jp"
+      ]
+    },
+    {
+      "user_name":"Yi Yang",
+      "ldap_id":"yyang13",
+      "companies":[
+        {
+          "company_name":"Intel",
+          "end_date":null
+        }
+      ],
+      "emails":[
+        "yi.y.yang@intel.com"
       ]
     }
   ],
