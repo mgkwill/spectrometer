@@ -1,8 +1,8 @@
-pbr>=0.6,<1.0
 Flask>=0.10,<1.0
 iso8601>=0.1.8
 oslo.config>=1.11.0
 paramiko>=1.8.0
+pbr>=0.6,<1.0
 psutil>=1.1.1
 PyGithub
 python-ldap>=2.4.15
