@@ -14,7 +14,7 @@
 # limitations under the License.
 
 import flask
-from oslo.config import cfg
+from oslo_config import cfg
 from six.moves.urllib import parse
 
 from dashboard import vault

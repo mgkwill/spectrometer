@@ -16,7 +16,7 @@
 import pickle
 import sys
 
-from oslo.config import cfg
+from oslo_config import cfg
 
 from spectrometer.openstack.common import log as logging
 from spectrometer.processor import config

@@ -15,7 +15,7 @@
 
 import collections
 
-from oslo.config import cfg
+from oslo_config import cfg
 import psutil
 import six
 from six.moves.urllib import parse
