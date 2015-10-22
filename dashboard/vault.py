@@ -16,7 +16,7 @@
 import os
 
 import flask
-from oslo.config import cfg
+from oslo_config import cfg
 import six
 
 from dashboard import memory_storage

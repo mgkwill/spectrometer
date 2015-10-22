@@ -20,7 +20,7 @@ import re
 import time
 
 import flask
-from oslo.config import cfg
+from oslo_config import cfg
 import six
 
 from dashboard import decorators
